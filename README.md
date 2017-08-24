@@ -1,0 +1,2 @@
+# LearningPython
+fo python related
